@@ -1,14 +1,11 @@
 # reeds_and_shepp_curves
 Reeds and Shepp Curves in Python from Lavalle's C Implementation
 
-The RS curves python codes are implemented in Python using the references implementation by Lavalle [reference
- implementation by Lavalle](http://msl.cs.uiuc.edu/~lavalle/cs326a/rs.c). 
+The RS curves python codes are implemented in Python using the reference implementations by Lavalle [reference implementation by Lavalle](http://msl.cs.uiuc.edu/~lavalle/cs326a/rs.c). 
  
- and 
- [reference
- implementation by Atsushi Sakai -Python Robotics](https://github.com/AtsushiSakai/PythonRobotics#reeds-shepp
- -planning). 
- 
+ and by the 
+ [reference implementation by Atsushi Sakai Python Robotics](https://github.com/AtsushiSakai/PythonRobotics#reeds-shepp-planning). 
+
  
  The details of the RS curve equations can be found in:
  
