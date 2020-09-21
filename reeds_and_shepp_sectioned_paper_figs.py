@@ -1306,8 +1306,8 @@ def append_control(path):
     for i in range(len(signs) - 1):
         if signs[i + 1] == signs[i]:
             '''
-                if the next curve has the same sign with the current curve, append the next curve to this patche 
-                else, create the reverse direction patche in the next condition.  
+                if the next curve has the same sign with the current curve, append the next curve to this patch 
+                else, create the reverse direction patch in the next condition.  
                 - sign changes, add new slot in the joined patches
             '''
 
