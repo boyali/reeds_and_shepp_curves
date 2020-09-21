@@ -16,6 +16,8 @@ The RS curves python codes are implemented in Python using the reference impleme
       publisher={Cambridge university press}
     }
 
+This implementation contains all 48 curves used in the C implementation. 
+
 We used this Python implementation to produce the curves in the following paper. The codes of the paper will be
  available in TierIV repositories. For the citations:   
 
