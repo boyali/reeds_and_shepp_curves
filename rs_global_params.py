@@ -37,7 +37,7 @@ INFINITY = 10000
 
      USE_NONHOLONOMIC_WITHOUT_OBSTACLE_HEURISTIC
      High cost for the goal if the heading is wrong
-     For sparse obstacle density, it works well, for the dence environment, it is sensitive 
+     For sparse obstacle density, it works well, for the dense environment, it is sensitive 
 '''
 USE_NONHOLONOMIC_WITHOUT_OBSTACLE_HEURISTIC = True
 

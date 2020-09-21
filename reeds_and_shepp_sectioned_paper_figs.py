@@ -23,6 +23,9 @@ Check the followings
 http://msl.cs.uiuc.edu/~lavalle/cs326a/rs.c
 Steven Lavalle Planning Algorithms
 
+and the Python Robotics RS Implementation
+https://github.com/AtsushiSakai/PythonRobotics#reeds-shepp-planning
+
 
 Paper Summary:
 
